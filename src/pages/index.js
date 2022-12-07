@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
 
    <HeroSection/>
-
+   <HeroSection/>
   </Layout>
 )
 
